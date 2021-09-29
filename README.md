@@ -17,6 +17,7 @@ Five files, plus a more detailed README:
 Three paml format rate matrices, a nexus format mixture model (two components, one for transmembrane sites, and extramembrane sites), and an Excel spreadsheet with calculations for the JTTtm model (derived from Jones et al. 1994 using the Kosiol and Goldman 2005 DCMut method)
 
 Additional references:
+
 Jones, D.T.; Taylor, W.R.; Thornton, J.M. A mutation data matrix for transmembrane proteins. FEBS Lett. 1994, 339, 269–275, doi:10.1016/0014-5793(94)80429-x.
 
 Kosiol, C.; Goldman, N. Different versions of the Dayhoff rate matrix. Mol. Biol. Evol. 2005, 22, 193–199, doi:10.1093/molbev/msi005.
