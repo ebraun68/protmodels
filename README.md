@@ -1,2 +1,4 @@
 # protmodels
-Repository for models of protein evolution
+General repository for models of protein evolution developed by the Braun research group
+
+------------------------------------------------------------
