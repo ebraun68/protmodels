@@ -2,6 +2,14 @@
 General repository for models of protein evolution developed by the Braun research group
 
 ------------------------------------------------------------
+# Programs used to compare matrices:
+
+  1) normalize_vectors.pl
+  2) calcEucl.pl
+
+To conduct a comparison of R matrices the matrices are written as a tab delimited file with vectors of 190 values, each preceded by the model name. Then normalize_vectors.pl is used to normalize these vectors to sum to one and calcEucl.pl is used to calculate distances among those vectors.
+
+------------------------------------------------------------
 # GKB mt transmembrane
 
 Models from:
