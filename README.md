@@ -13,7 +13,7 @@ To conduct a comparison of R matrices the matrices are written as a tab delimite
 # GKB mt transmembrane
 
 Models from:
-Gordon, E.L.; Kimball, R.T.; Braun, E.L. Protein Structure, Models of Sequence Evolution, and Data Type Effects in Phylogenetic Analyses of Mitochondrial Data: A Case Study in Birds. Diversity 2021, 13, 555. https://doi.org/10.3390/d13110555
+Gordon, E.L.; Kimball, R.T.; Braun, E.L. Protein structure, models of sequence evolution, and data type effects in phylogenetic analyses of mitochondrial data: A case study in birds. Diversity 2021, 13, 555. https://doi.org/10.3390/d13110555
 
 Five files, plus a more detailed README:
   1) JTTtm.paml.txt
