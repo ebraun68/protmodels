@@ -31,4 +31,17 @@ Jones, D.T.; Taylor, W.R.; Thornton, J.M. A mutation data matrix for transmembra
 Kosiol, C.; Goldman, N. Different versions of the Dayhoff rate matrix. Mol. Biol. Evol. 2005, 22, 193–199, doi:10.1093/molbev/msi005.
 
 ------------------------------------------------------------
+# Scolaro Braun 2021 models
+
+
+Models from:
+Scolaro, G.E.; Braun, E.L. The structure of evolutionary model space for proteins across the tree of life. Submitted
+
+Models from Scolaro & Braun were trained on alignments from various bacterial and archaeal clades:
+
+Those with the prefix "ribo" were trained on ribosomal proteins and those with no prefix were trained on arbitrarily chosen proteins
+
+Models from previous publications that were considered by Scolaro & Braun are also included in the folder.
+
+------------------------------------------------------------
 
